@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(25, 25, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100vh;
+}
+.container{
+    background-color: rgb(241, 242, 242);
+    padding: 20px;
+    border-radius: 20px;
+}
+.container h1{
+    text-align: center;
+    color: purple;
+}
+#red{
+    background-color: red;
+    height: 40px;
+    width: 50px;
+    border-radius: 10%;
+}
+#green{
+    background-color: green;
+    height: 40px;
+    width: 60px;
+    border-radius: 10%;
+}
+#yello{
+    background-color: yellow;
+    height: 40px;
+    width: 68px;
+    border-radius: 10%;
+}
+#pink{
+    background-color: pink;
+    height: 40px;
+    width: 50px;
+    border-radius: 10%;
+}
+#white{
+    background-color: white;
+    height: 40px;
+    width: 60px;
+    border-radius: 10%;
+}
+#blue{
+    background-color: rgb(40, 40, 243);
+    height: 40px;
+    width: 60px;
+    border-radius: 10%;
+}
