@@ -17,7 +17,7 @@ for(let select of drop){
             newOption.selected = true;
         }
         select.append(newOption);
-    }
+    } 
     select.addEventListener("change",(evt)=>{
         updateFlag(evt.target)
     })
